@@ -1,2 +1,1 @@
-# kjartanfranklinmagnus.github.io
-Vefsíða
+# kjartanfranklin.github.io
